@@ -50,7 +50,7 @@ How to Run
 2. Install dependencies:
   pip install -r requirements.txt
 3. Run the Jupyter Notebook for Python EDA.
-4. Load cleaned data into PostgreSQL/MySQL/SQL Server.
+4. Load cleaned data into MySQL Server.
 5. Execute SQL queries from the sql_queries.sql file.
 6. Open the Power BI dashboard (dashboard.pbix).
 7. Review the project report (report.docx) and Gamma presentation (presentation.pptx).
